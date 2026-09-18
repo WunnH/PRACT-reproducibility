@@ -11,5 +11,5 @@ Included information:
 - nominal and robust candidate-set statistics
 - computational runtime statistics
 
-No source code, patient-level data, images, masks, coordinates, entry points, or individual trajectories are included.
+
 
